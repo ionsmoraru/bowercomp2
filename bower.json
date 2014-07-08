@@ -1,7 +1,7 @@
 {
   "name": "bwtstcomp2",
   "version": "1.0.1",
-  "main": "bwtstcomp2.js",
+  "main": "scripts.js",
   "ignore": [
     ".jshintrc",
     "**/*.txt"
